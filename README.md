@@ -47,6 +47,12 @@ The term project applies deep learning architectures to a non-trivial real-world
 The project was completed **as part of a small team**.  
 Only **my individual contribution (VGG16-based model and analysis)** is included as executable code in this repository, while the final team presentation is provided for context.
 
+## 📌 Disclaimer
+
+This repository contains my own original work completed as part of **Course #3546 – Deep Learning** at the *University of Toronto School of Continuing Studies*.
+
+It includes only code, analysis, and commentary authored by me. No official course materials, assignment instructions, lecture slides, or instructor-provided solutions are included.
+
 ---
 
 ## 📁 Repository Structure
@@ -58,13 +64,5 @@ uoft-deep-learning-3546-assignments/
 ├── assignment-04-generative-models/
 └── term-project/
 
-Each directory contains a focused, self-contained notebook corresponding to the topic or project component.
-
----
-## 📌 Disclaimer
-
-This repository contains my own original work completed as part of **Course #3546 – Deep Learning** at the *University of Toronto School of Continuing Studies*.
-
-It includes only code, analysis, and commentary authored by me. No official course materials, assignment instructions, lecture slides, or instructor-provided solutions are included.
 
 
