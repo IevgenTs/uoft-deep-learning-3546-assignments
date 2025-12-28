@@ -50,6 +50,7 @@ Only **my individual contribution (VGG16-based model and analysis)** is included
 ---
 
 ## 📁 Repository Structure
+```bash
 uoft-deep-learning-3546-assignments/
 ├── assignment-01-keras-fundamentals/
 ├── assignment-02-cnn-transfer-learning/
